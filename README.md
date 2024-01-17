@@ -8,11 +8,7 @@
 </p>
 - 🔭 I’m currently working on **Mern E-commerce app**
 
-- 🌱 I’m currently learning **Mern Stack**
-
-- 👨‍💻 All of my projects are available at [www.c.com](www.c.com)
-
-- 📝 I regularly write articles on [www.c.com](www.c.com)
+- 🌱 I’m currently learning **Mern Stack*
 
 - 💬 Ask me about **react**
 
