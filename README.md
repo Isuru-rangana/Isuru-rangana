@@ -6,7 +6,7 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
 </p>
-- 🔭 I’m currently working on **Mern E-commerce app**
+- 🔭 I’m currently working on **Mern social Media app**
 
 - 🌱 I’m currently learning **Mern Stack*
 
