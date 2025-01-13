@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isuru rangana</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 🔭
-
-- 🌱 I’m currently learning **Mern Stack*
-
-- 💬 Ask me about **react**
-
 
 <p align="left">
 </p>
