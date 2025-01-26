@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Isuru%20Rangana&fontSize=60&fontColor=white&animation=fadeIn" width="100%">
   
-  <h3>🚀 Full Stack Developer | Tech Innovator</h3>
+  <h3>🚀 Full Stack Developer</h3>
   
 
 
